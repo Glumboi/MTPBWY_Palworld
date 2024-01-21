@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net7.0-windows</TargetFramework>
+	  <RootNamespace>MTPBWY_U_Palworld</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>MTPBWY_U_Palworld</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="MTPBWY_U_Palworld.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MayThePerfromanceBeWithYou-Configurator">
+      <HintPath>Libs\MayThePerfromanceBeWithYou-Configurator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
