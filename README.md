@@ -1,2 +1,2 @@
-# MTPBWY_U_DeadIsland2
- Source for my Dead Island 2 MTPBWY Plugin
+#  MTPBWY_Palworld
+ Source for my Palworld MTPBWY Plugin which is essentially the Dead Island 2 plugin with a new name on it
